@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1009297835545",
+    "project_id": "new-plantake",
+    "storage_bucket": "new-plantake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009297835545:android:f7b5d9ba570bc708008c88",
+        "android_client_info": {
+          "package_name": "com.compa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXC0PwphNi3sO9auT-b6zFdvpskcxrt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009297835545-2l372mq5lbmrph2154ul2g4pndblp5m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breatheeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009297835545:android:817732b9d181632a008c88",
+        "android_client_info": {
+          "package_name": "com.example.breathee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXC0PwphNi3sO9auT-b6zFdvpskcxrt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009297835545-2l372mq5lbmrph2154ul2g4pndblp5m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breatheeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009297835545:android:f038c0de78b67579008c88",
+        "android_client_info": {
+          "package_name": "com.example.reel_animation2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXC0PwphNi3sO9auT-b6zFdvpskcxrt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009297835545-ikjo4pqhhitis3g69llght3ti9kt64n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009297835545-2l372mq5lbmrph2154ul2g4pndblp5m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breatheeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
